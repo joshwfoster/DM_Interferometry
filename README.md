@@ -1,6 +1,6 @@
 # DM Interferometry
 
-[![arXiv](https://img.shields.io/badge/arXiv-2009.XXXXX%20-green.svg)](https://arxiv.org/abs/2009.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2009.14201%20-green.svg)](https://arxiv.org/abs/2009.14201)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Example](https://github.com/joshwfoster/DM_Interferometry/blob/master/Localization_Animation.gif "Daily Axion Localization")
